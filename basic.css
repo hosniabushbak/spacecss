@@ -1,0 +1,13 @@
+/*basic css attributes*/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+header,
+footer,
+article,
+nav,
+section {
+	display: block;
+}

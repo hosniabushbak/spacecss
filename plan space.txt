@@ -1,0 +1,87 @@
+base 
+
+
+************ Utilities *********** 
+-Theme Colors
+-Spacing ( p - m )
+-Font Sizes
+-Line Height
+-Letter Spacing
+-Width & Height
+-Z-Index
+
+
+-text color
+-bg color
+-hover color
+-bg opacity
+-border
+-opacity
+
+
+-btn 
+
+
+
+
+
+accordion
+alert
+badge
+breadcrumb
+button-group
+buttons
+card
+carausel
+close 
+containers
+dropdown
+form
+grid
+img 
+list 
+model
+nav-tabs
+navbar
+offcanvas
+pagination 
+
+
+
+----------------------------------------- اضافية جميلة مش موجود ببوتستراب 
+svg  => stroke-1 , fill-color
+
+select => user-select: none; ,,,,
+
+Scroll
+
+focus color
+
+Cursor 
+
+checkbox color , focus => accent-color: #000;
+
+Transform =>transform-origin: center;,,,,
+
+skew => transform: skewX(0deg);
+
+Translate => transform: translateX(0px);
+
+Rotate => transform: rotate(0deg);
+
+Scale -x-y => 	transform: scaleX(0);
+
+
+
+Transition => transition-duration: 0s; , transition-timing-function: linear;,,,,
+transition delay => delay-100
+Animation => Spin, Ping, Pulse , Bounce
+
+
+Border Collapse
+Border Spacing
+caption هاي تاق بتنكتب فوق او تحت الجدول ننعمل كلاسات عشان نرتب وين تيجي بالنسبة للجدول 
+
+
+
+

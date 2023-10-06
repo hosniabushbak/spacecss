@@ -251,7 +251,14 @@ pre {
 	margin: 1em 0;
 }
 
-head {
+head,
+script,
+style,
+title,
+link,
+param,
+area,
+datalist {
 	display: none;
 }
 
@@ -297,12 +304,6 @@ li {
 	display: list-item;
 }
 
-link,
-param,
-area,
-datalist {
-	display: none;
-}
 
 mark {
 	background-color: yellow;
@@ -344,11 +345,6 @@ s {
 	text-decoration: line-through;
 }
 
-script,
-style,
-title {
-	display: none;
-}
 
 small {
 	font-size: smaller;
